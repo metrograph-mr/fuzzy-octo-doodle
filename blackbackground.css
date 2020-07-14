@@ -1,1 +1,3 @@
-.video-js { background-color: black !important; }
+.vjs-poster {
+  background-color: black !important; 
+}
