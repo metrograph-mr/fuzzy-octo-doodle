@@ -1,0 +1,35 @@
+/****** Brightcove player *****/
+
+/* black background */
+.bc-iframe, .bc-iframe body, .vjs-poster, .video-js {
+  background-color: black !important;
+}
+
+/* transparent buttons */
+button.vjs-control.vjs-button {
+    background: transparent !important;
+}
+
+button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
+    background: transparent !important;
+}
+
+/* spacing of buttons and time text*/
+.vjs-control-bar {
+    margin-bottom: 8px !important;
+}
+
+.vjs-current-time.vjs-time-control.vjs-control {
+    font-size: 13px !important;
+}
+.vjs-time-control.vjs-time-divider {
+    font-size: 13px !important;
+
+li.vjs-menu-item.vjs-selected {
+    background: #001689 !important;
+    color: white;
+}
+.vjs-play-progress.vjs-slider-bar {
+    background-color: #001689 !important;
+}
+/*** End ***/
