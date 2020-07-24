@@ -24,10 +24,13 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
 }
 .vjs-time-control.vjs-time-divider {
     font-size: 13px !important;
-
+}
+.vjs-duration-display {
+    font-size: 13px !important;
+}
 li.vjs-menu-item.vjs-selected {
     background: #001689 !important;
-    color: white;
+    color: white !important;
 }
 .vjs-play-progress.vjs-slider-bar {
     background-color: #001689 !important;
