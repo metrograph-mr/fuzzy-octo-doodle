@@ -1,6 +1,2 @@
 .bc-iframe, .bc-iframe body, .vjs-poster, .video-js { 
 background-color: black !important; }
-
-button.vjs-control.vjs-button {
-    background: transparent !important;
-}
