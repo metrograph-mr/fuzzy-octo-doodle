@@ -14,4 +14,9 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
     background: transparent !important;
 }
 
+/* spacing of buttons */
+.vjs-mouse.bc-player-QRs57foWX_default .vjs-control-bar {
+    font-size: 14px;
+}
+
 /*** End ***/
