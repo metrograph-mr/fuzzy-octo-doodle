@@ -16,7 +16,6 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
 
 /* spacing of buttons and time text*/
 .vjs-control-bar {
-    /* padding-bottom: 10px !important; */
     margin-bottom: 8px !important;
 }
 
@@ -24,12 +23,11 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
     font-size: 13px !important;
 }
 .vjs-time-control.vjs-time-divider {
-    font-size: 13px;
+    font-size: 13px !important;
 }
 
 .vjs-duration-display {
     font-size: 13px !important;
-    margin-top: 5px;
 }
 
 /*** End ***/
