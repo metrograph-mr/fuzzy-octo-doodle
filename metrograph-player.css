@@ -30,4 +30,11 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
     font-size: 13px !important;
 }
 
+li.vjs-menu-item.vjs-selected {
+    background: #001698 !important;
+    color: white;
+}
+.vjs-play-progress.vjs-slider-bar {
+    background-color: #001698 !important;
+}
 /*** End ***/
