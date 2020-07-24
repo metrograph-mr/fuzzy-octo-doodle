@@ -14,7 +14,7 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
     background: transparent !important;
 }
 
-/* spacing of buttons and time text*/
+/* spacing of buttons and time text
 .vjs-control-bar {
     margin-bottom: 8px !important;
 }
@@ -37,4 +37,6 @@ li.vjs-menu-item.vjs-selected {
 .vjs-play-progress.vjs-slider-bar {
     background-color: #001689 !important;
 }
+
+*/
 /*** End ***/
