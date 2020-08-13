@@ -12,7 +12,7 @@ button.vjs-control.vjs-button {
 button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
     background: transparent !important;
 }
-button.vjs-seek-to-live-control.vjs-control.vjs-button {
+button.vjs-seek-to-live-control.vjs-control.vjs-at-live-edge {
     background: transparent !important;
 }
 
