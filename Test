@@ -18,7 +18,7 @@ button.vjs-seek-to-live-control.vjs-control.vjs-button {
 
 /* spacing of buttons and time text
 .vjs-control-bar {
-    margin-bottom: 20px !important;
+    margin-bottom: 100px !important;
 }
 .vjs-current-time.vjs-time-control.vjs-control {
     font-size: 13px !important;
