@@ -33,7 +33,7 @@ button.vjs-seek-to-live-control.vjs-control {
     font-size: 13px !important;
 }
 .vjs-custom-control-spacer.vjs-spacer {
- margin-bottom: 20px !important;   
+ margin-bottom: -8px !important;   
 }
 li.vjs-menu-item.vjs-selected {
     background: #001689 !important;
