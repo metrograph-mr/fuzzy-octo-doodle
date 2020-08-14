@@ -14,6 +14,14 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
     background: transparent !important;
 }
 
+button.vjs-seek-to-live-control.vjs-control.vjs-at-live-edge {
+    background: transparent !important;
+  
+}
+button.vjs-seek-to-live-control.vjs-control {
+    background: transparent !important;
+}
+
 /* spacing of buttons and time text
 .vjs-control-bar {
     margin-bottom: 8px !important;
