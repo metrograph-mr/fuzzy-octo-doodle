@@ -32,7 +32,7 @@ button.vjs-seek-to-live-control.vjs-control {
 .vjs-duration-display {
     font-size: 13px !important;
 }
-.button.vjs-mute-control.vjs-control.vjs-button {
+button.vjs-mute-control.vjs-control.vjs-button {
     margin-top: -8px !important;   
 }
 li.vjs-menu-item.vjs-selected {
