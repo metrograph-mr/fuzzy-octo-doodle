@@ -32,6 +32,9 @@ button.vjs-seek-to-live-control.vjs-control {
 .vjs-duration-display {
     font-size: 13px !important;
 }
+.vjs-custom-control-spacer.vjs-spacer {
+ margin-bottom: 20px !important;   
+}
 li.vjs-menu-item.vjs-selected {
     background: #001689 !important;
     color: white !important;
