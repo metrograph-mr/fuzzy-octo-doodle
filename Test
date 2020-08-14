@@ -33,7 +33,7 @@ button.vjs-seek-to-live-control.vjs-control {
     font-size: 13px !important;
 }
 .button.vjs-mute-control.vjs-control.vjs-button {
- margin-bottom: 8px !important;   
+    margin-top: -8px !important;   
 }
 li.vjs-menu-item.vjs-selected {
     background: #001689 !important;
