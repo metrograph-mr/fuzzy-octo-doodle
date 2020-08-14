@@ -29,25 +29,25 @@ button.vjs-seek-to-live-control.vjs-control {
 }
 .vjs-time-control.vjs-time-divider {
     font-size: 13px !important;
-    margin-bottom: 8px !important;
+    margin-top: -8px !important;
 }
 .vjs-duration-display {
     font-size: 13px !important;
 }
 button.vjs-mute-control.vjs-control.vjs-button {
-    margin-bottom: 8px !important;   
+     margin-top: -8px !important;   
 }
 button.vjs-play-control.vjs-control.vjs-button {
-    margin-bottom: 8px !important;   
+     margin-top: -8px !important;   
 }
 button.vjs-quality-menu-button.vjs-menu-button {
-    margin-bottom: 8px !important;   
+     margin-top: -8px !important;   
 }
 button.vjs-picture-in-picture-control.vjs-control.vjs-button {
-    margin-bottom: 8px !important;   
+     margin-top: -8px !important;   
 }
 button.vjs-fullscreen-control.vjs-control.vjs-button {
-    margin-bottom: 8px !important;   
+     margin-top: -8px !important;   
 }
 
 li.vjs-menu-item.vjs-selected {
