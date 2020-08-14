@@ -25,29 +25,29 @@ button.vjs-seek-to-live-control.vjs-control {
 }*/
 .vjs-current-time.vjs-time-control.vjs-control {
     font-size: 13px !important;
-    margin-top: 0px !important;
+    margin-top: 2px !important;
 }
 .vjs-time-control.vjs-time-divider {
     font-size: 13px !important;
-    margin-top: 0px !important;
+    margin-top: 2px !important;
 }
 .vjs-duration-display {
     font-size: 13px !important;
 }
 button.vjs-mute-control.vjs-control.vjs-button {
-     margin-top: 0px !important;   
+     margin-top: 2px !important;   
 }
 button.vjs-play-control.vjs-control.vjs-button {
-     margin-top: 0px !important;   
+     margin-top: 2px !important;   
 }
 button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
-     margin-top: 0px !important;   
+     margin-top: 2px !important;   
 }
 button.vjs-picture-in-picture-control.vjs-control.vjs-button {
-     margin-top: 0px !important;   
+     margin-top: 2px !important;   
 }
 button.vjs-fullscreen-control.vjs-control.vjs-button {
-     margin-top: 0px !important;   
+     margin-top: 2px !important;   
 }
 
 li.vjs-menu-item.vjs-selected {
