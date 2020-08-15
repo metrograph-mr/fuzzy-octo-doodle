@@ -38,7 +38,7 @@ button.vjs-mute-control.vjs-control.vjs-button {
      margin-top: -5px !important;   
 }
 button.vjs-play-control.vjs-control.vjs-button {
-     margin-top: -5px !important;   
+     margin-top: -6px !important;   
 }
 div.vjs-quality-menu-wrapper.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button.vjs-quality-menu-button-use-resolution {
      margin-top: -5px !important;   
@@ -51,7 +51,7 @@ button.vjs-subs-caps-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
      background: transparent !important;
 }
 button.vjs-fullscreen-control.vjs-control.vjs-button {
-     margin-top: -5px !important;   
+     margin-top: -6px !important;   
 }
 
 li.vjs-menu-item.vjs-selected {
