@@ -58,8 +58,8 @@ li.vjs-menu-item.vjs-selected {
     background: #001689 !important;
     color: white !important;
 }
-.vjs-play-progress.vjs-slider-bar {
+/*.vjs-play-progress.vjs-slider-bar {
     background-color: #001689 !important;
-}
+}*/
 
 /*** End ***/
