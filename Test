@@ -40,7 +40,7 @@ button.vjs-mute-control.vjs-control.vjs-button {
 button.vjs-play-control.vjs-control.vjs-button {
      margin-top: -3px !important;   
 }
-vjs-quality-menu-wrapper.vjs-menu-button.vjs-menu-button-popup.vjs-control vjs-button.vjs-quality-menu-button-use-resolution {
+div.vjs-quality-menu-wrapper.vjs-menu-button.vjs-menu-button-popup.vjs-control vjs-button.vjs-quality-menu-button-use-resolution {
      margin-top: -3px !important;   
 }
 button.vjs-picture-in-picture-control.vjs-control.vjs-button {
