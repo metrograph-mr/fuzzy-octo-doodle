@@ -25,11 +25,11 @@ button.vjs-seek-to-live-control.vjs-control {
 }*/
 .vjs-current-time.vjs-time-control.vjs-control {
     font-size: 13px !important;
-    margin-top: -6px !important;
+    margin-top: -5px !important;
 }
 .vjs-time-control.vjs-time-divider {
     font-size: 13px !important;
-    margin-top: -6px !important;
+    margin-top: -5px !important;
 }
 .vjs-duration-display {
     font-size: 13px !important;
