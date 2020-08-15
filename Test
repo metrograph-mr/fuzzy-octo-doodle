@@ -46,6 +46,10 @@ div.vjs-quality-menu-wrapper.vjs-menu-button.vjs-menu-button-popup.vjs-control.v
 button.vjs-picture-in-picture-control.vjs-control.vjs-button {
      margin-top: -6px !important;   
 }
+button.vjs-subs-caps-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
+     margin-top: -6px !important;
+     background: transparent !important;
+}
 button.vjs-fullscreen-control.vjs-control.vjs-button {
      margin-top: -6px !important;   
 }
