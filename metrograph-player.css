@@ -9,6 +9,9 @@
 button.vjs-control.vjs-button {
     background: transparent !important;
 }
+button.vjs-control.vjs-button:hover {
+    border: none !important;
+}
 
 button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
     background: transparent !important;
