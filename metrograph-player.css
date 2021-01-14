@@ -8,13 +8,16 @@
 /* transparent buttons */
 button.vjs-control.vjs-button {
     background: transparent !important;
+    font-size: inherit;
+    line-height: inherit;
+}
+button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
+    background: transparent !important;
+    font-size: inherit;
+    line-height: inherit;
 }
 button.vjs-control.vjs-button:hover, button.vjs-quality-menu-button.vjs-button:hover {
     border: none !important;
-}
-
-button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button {
-    background: transparent !important;
 }
 
 button.vjs-seek-to-live-control.vjs-control.vjs-at-live-edge {
