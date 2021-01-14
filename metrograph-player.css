@@ -16,7 +16,9 @@ button.vjs-quality-menu-button.vjs-menu-button.vjs-menu-button-popup.vjs-button 
     font-size: inherit;
     line-height: inherit;
 }
-button.vjs-control.vjs-button:hover, button.vjs-quality-menu-button.vjs-button:hover {
+button.vjs-control.vjs-button:hover, button.vjs-quality-menu-button.vjs-button:hover,
+button.vjs-control.vjs-button:active, button.vjs-quality-menu-button.vjs-button:active,
+button.vjs-control.vjs-button:focus, button.vjs-quality-menu-button.vjs-button:focus {
     border: none !important;
 }
 
