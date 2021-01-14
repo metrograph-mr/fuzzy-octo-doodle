@@ -25,6 +25,11 @@ button.vjs-seek-to-live-control.vjs-control {
     background: transparent !important;
 }
 
+/* quality menu selected item */
+.vjs-menu li.vjs-selected {
+  color: #ffffff;
+}
+
 /* spacing of buttons and time text
 .vjs-control-bar {
     margin-bottom: 8px !important;
