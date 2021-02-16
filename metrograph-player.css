@@ -30,6 +30,23 @@ button.vjs-seek-to-live-control.vjs-control {
     background: transparent !important;
 }
 
+/* ondemand play button */
+.bc-player-ZL3lC6AGr_default .vjs-big-play-button, .bc-player-acIhhDgaDc_default .vjs-big-play-button, .bc-player-QRs57foWX_default .vjs-big-play-button {
+    background-color: rgba(0,23,138,0.75);
+}
+.bc-player-ZL3lC6AGr_default:hover .vjs-big-play-button, .bc-player-acIhhDgaDc_default:hover .vjs-big-play-button, .bc-player-QRs57foWX_default:hover .vjs-big-play-button {
+    background-color: rgba(0,23,138,1.0);
+}
+
+.bc-player-rqrEqqy2r_default .vjs-big-play-button, .bc-player-mAV6oa3Rl_default .vjs-big-play-button {
+    background-color: rgba(255,0,0,0.75);
+}
+
+.bc-player-rqrEqqy2r_default:hover .vjs-big-play-button, .bc-player-mAV6oa3Rl_default:hover .vjs-big-play-button {
+    background-color: rgba(255,0,0,1.0);
+}
+
+
 /* quality menu selected item */
 .vjs-menu li.vjs-selected {
   color: #ffffff;
